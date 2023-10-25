@@ -4,6 +4,7 @@ public class Main {
 
     public static int[] Sum(int [] array1,int [] array2,int [] array3)
     {
+        print("liad!!");
         array3.sort();
         int  array[]=new int[];
         for (int i=0;i<array1.length();i++)
